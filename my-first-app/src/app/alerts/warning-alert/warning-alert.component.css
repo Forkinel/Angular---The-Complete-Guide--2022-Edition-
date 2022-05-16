@@ -1,0 +1,9 @@
+.warningAlert {
+  color: red;
+  font-size: 20px;
+
+  border: 1px solid rgb(205, 27, 57);
+  background-color: rgb(193, 9, 9);
+  text-align: center;
+  padding: 20px;
+}
